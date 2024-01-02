@@ -8,7 +8,6 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados:
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [MySQL Server](https://dev.mysql.com/downloads/mysql/)
-- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 
 ## Configuração do Banco de Dados
 1. Atualize as informações de conexão no arquivo `appsettings.json` no projeto.
